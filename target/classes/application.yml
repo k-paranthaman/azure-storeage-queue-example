@@ -1,0 +1,12 @@
+server:
+  port: 8080
+
+swagger:
+  config:
+    api:
+      basepackage : org.example.azure.storeage.queue.controller
+      path : /.*
+api:
+  version : 1.0
+  description : Azure storeage queue Service
+  title : Azure storeage queue example

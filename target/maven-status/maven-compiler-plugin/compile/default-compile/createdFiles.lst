@@ -1,0 +1,5 @@
+org/example/azure/storeage/queue/model/User.class
+org/example/azure/storeage/queue/AzureStoreageQueueApplication.class
+org/example/azure/storeage/queue/config/SwaggerConfig.class
+org/example/azure/storeage/queue/config/AzureStoreageQueueConfig.class
+org/example/azure/storeage/queue/controller/SendController.class
